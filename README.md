@@ -1,6 +1,6 @@
 # Personal_portfolio - Showcasing My Work and Skills
 
-## Live link :  
+## Live link :  https://ig-portfolio.onrender.com/
 
 ### -Designed and developed a personal portfolio website to showcase my skills, projects, and professional experiences.
 
@@ -11,4 +11,4 @@
 ##  Tech Stack: HTML, CSS, JavaScript
 
 
-![Screenshot (2)]( )
+![Screenshot (2)](ig-portfolio.jpg)
