@@ -11,4 +11,4 @@
 ##  Tech Stack: HTML, CSS, JavaScript
 
 
-![Screenshot (2)](ig-portfolio.jpg)
+![Screenshot (2)](images/ig-portfolio.jpg)
