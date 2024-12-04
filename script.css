@@ -694,6 +694,16 @@ body {
     padding: 50px 20px;
 }
 
+.project-image {
+    width: 100%;
+    /* max-width: 400px; */
+    height: 80%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    /* display: block; */
+}
+
 .heading {
     text-align: center;
     font-size: 36px;
@@ -713,7 +723,7 @@ body {
     transform: translateX(-50%);
 }
 
-.project-container {
+ .project-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -803,7 +813,7 @@ body {
     background-color: var(--bg-colour);
     color: var(--main-colour);
     transform: scale(1.05);
-}
+} 
 
 :root {
     --bg-colour: #080808;
