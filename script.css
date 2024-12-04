@@ -694,16 +694,6 @@ body {
     padding: 50px 20px;
 }
 
-.project-image {
-    width: 100%;
-    /* max-width: 400px; */
-    height: 80%;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: 5px;
-    /* display: block; */
-}
-
 .heading {
     text-align: center;
     font-size: 36px;
